@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+}
+
+img {
+    border-radius: 50%;
+}
